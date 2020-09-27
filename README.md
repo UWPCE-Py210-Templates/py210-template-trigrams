@@ -1,5 +1,6 @@
 # py210-template-trigrams
 
+[Assignment Details](https://uwpce-pythoncert.github.io/ProgrammingInPython/exercises/trigrams/trigrams.html?highlight=trigram)
 Write your code in`trigrams.py` file. 
 
 This assignment includes automated checks:
