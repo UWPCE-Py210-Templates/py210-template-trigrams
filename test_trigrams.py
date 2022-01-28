@@ -242,6 +242,5 @@ def test_make_sentence():
 #         assert not word.startswith("'")
 #         assert not word.endswith("'")
 
-#     assert False
 
 
